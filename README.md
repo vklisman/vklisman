@@ -16,24 +16,21 @@ Olá, eu sou o Victor Klisman! 🇧🇷
 </h3>
 
 ```
-Estudante de Engenharia de Software pela UFAM - Universidade Federal do Amazonas, 
-sou fascinado por computação desde criança e atualmente tenho me dedicado a me tornar um dev front-end e mobile.
+Bacharel em Engenharia de Software pela UFAM - Universidade Federal do Amazonas, 
+sou fascinado por computação desde criança e atualmente tenho me dedicado a me tornar um desenvolvedor mobile.
 ```
 ## Tecnologias que estou estudando atualmente 💻
 
-  - HTML
-  - CSS
-  - JavaScript
-  - React
   - Java
-  - MongoDB
+  - Kotlin
+  - Flutter
+  - React Native
   - MySQL
 
 ## Alguns fatos sobre mim 👨🏻‍💻
 
 - Adoro conhecer coisas novas, trabalhar em grupo e obter novas experiências, almejo trabalhar fora do Brasil, para melhorar meu Inglês e conhecer novas culturas, pessoas e ter novas experiências. 😄
 
-- Estou cursando Engenharia de Software. 💻
 
 ## Meu Linktree [:link:](https://linktr.ee/vklisman)
 
