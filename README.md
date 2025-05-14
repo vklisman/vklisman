@@ -10,26 +10,22 @@
 
 <h3 align="center">  <br>
 
-Olá, eu sou o Victor Klisman! 🇧🇷
+Olá, eu sou o Victor Klisman! 
 <br>
 
 </h3>
 
 ```
-Bacharel em Engenharia de Software pela UFAM - Universidade Federal do Amazonas, 
-sou fascinado por computação desde criança e atualmente tenho me dedicado a me tornar um desenvolvedor mobile.
+Bacharel em Engenharia de Software pela UFAM dev Mobile e FullStack
 ```
 ## Tecnologias que estou estudando atualmente 💻
 
   - Java
+  - PHP
+  - Python
   - Kotlin
   - Flutter
   - React Native
   - MySQL
-
-## Alguns fatos sobre mim 👨🏻‍💻
-
-- Adoro conhecer coisas novas, trabalhar em grupo e obter novas experiências, almejo trabalhar fora do Brasil, para melhorar meu Inglês e conhecer novas culturas, pessoas e ter novas experiências. 😄
-
 
 ## Meu Linktree [:link:](https://linktr.ee/vklisman)
